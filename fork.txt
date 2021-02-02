@@ -1,0 +1,6 @@
+How to Download YouTube Videos on Your PC
+Download and install YTD Video Downloader.
+Navigate to the YouTube video you want to save, using your browser.
+Launch YTD Video Downloader if it's not already running. ...
+Copy and paste the YouTube address from your browser into YTD's URL field. ...
+Click the Download button in YTD
